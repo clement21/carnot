@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Belgrad';
+    src: url('Belgrad-Bold.eot');
+    src: url('Belgrad-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Belgrad-Bold.woff2') format('woff2'),
+        url('Belgrad-Bold.woff') format('woff'),
+        url('Belgrad-Bold.svg#Belgrad-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
